@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-calendar-android@0.0.6",
+        "scope": null,
+        "escapedName": "react-native-calendar-android",
+        "name": "react-native-calendar-android",
+        "rawSpec": "0.0.6",
+        "spec": "0.0.6",
+        "type": "version"
+      },
+      "/home/jianglin/workspace/android/reactNative/project/react_native_office"
+    ]
+  ],
+  "_from": "react-native-calendar-android@0.0.6",
+  "_id": "react-native-calendar-android@0.0.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-calendar-android",
+  "_nodeVersion": "5.12.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-calendar-android-0.0.6.tgz_1476669159729_0.338308107573539"
+  },
+  "_npmUser": {
+    "name": "chymtt",
+    "email": "anhtu@lozi.vn"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-calendar-android@0.0.6",
+    "scope": null,
+    "escapedName": "react-native-calendar-android",
+    "name": "react-native-calendar-android",
+    "rawSpec": "0.0.6",
+    "spec": "0.0.6",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-calendar-android/-/react-native-calendar-android-0.0.6.tgz",
+  "_shasum": "968efdccc996cb05871988f0f3e9840eebc5d3c6",
+  "_shrinkwrap": null,
+  "_spec": "react-native-calendar-android@0.0.6",
+  "_where": "/home/jianglin/workspace/android/reactNative/project/react_native_office",
+  "author": {
+    "name": "Do Anh Tu",
+    "email": "chymtt@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/chymtt/ReactNativeCalendarAndroid/issues"
+  },
+  "dependencies": {},
+  "description": "A simple material-themed calendar for react native android",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "968efdccc996cb05871988f0f3e9840eebc5d3c6",
+    "tarball": "https://registry.npmjs.org/react-native-calendar-android/-/react-native-calendar-android-0.0.6.tgz"
+  },
+  "gitHead": "28081708864e39b2986207b6b4e73c200cb6e09c",
+  "homepage": "https://github.com/chymtt/ReactNativeCalendarAndroid",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "material",
+    "material-design",
+    "calendar"
+  ],
+  "license": "MIT",
+  "main": "src/Calendar.js",
+  "maintainers": [
+    {
+      "name": "chymtt",
+      "email": "anhtu@lozi.vn"
+    }
+  ],
+  "name": "react-native-calendar-android",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chymtt/ReactNativeCalendarAndroid.git"
+  },
+  "scripts": {},
+  "version": "0.0.6"
+}

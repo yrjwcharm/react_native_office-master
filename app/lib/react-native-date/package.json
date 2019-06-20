@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-date@^1.0.3",
+        "scope": null,
+        "escapedName": "react-native-date",
+        "name": "react-native-date",
+        "rawSpec": "^1.0.3",
+        "spec": ">=1.0.3 <2.0.0",
+        "type": "range"
+      },
+      "/home/jianglin/workspace/android/reactNative/project/react_native_office"
+    ]
+  ],
+  "_from": "react-native-date@>=1.0.3 <2.0.0",
+  "_id": "react-native-date@1.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-date",
+  "_nodeVersion": "4.1.0",
+  "_npmUser": {
+    "name": "nucleartux",
+    "email": "nucleartux@gmail.com"
+  },
+  "_npmVersion": "2.14.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-date@^1.0.3",
+    "scope": null,
+    "escapedName": "react-native-date",
+    "name": "react-native-date",
+    "rawSpec": "^1.0.3",
+    "spec": ">=1.0.3 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-date/-/react-native-date-1.0.3.tgz",
+  "_shasum": "2d707ccac41d0c4021ff3049babedd3cac328b47",
+  "_shrinkwrap": null,
+  "_spec": "react-native-date@^1.0.3",
+  "_where": "/home/jianglin/workspace/android/reactNative/project/react_native_office",
+  "author": {
+    "name": "Adrov Igor"
+  },
+  "bugs": {
+    "url": "https://github.com/nucleartux/react-native-date/issues"
+  },
+  "dependencies": {},
+  "description": "React Native date and time pickers for Android",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2d707ccac41d0c4021ff3049babedd3cac328b47",
+    "tarball": "https://registry.npmjs.org/react-native-date/-/react-native-date-1.0.3.tgz"
+  },
+  "gitHead": "f284cdf93df17a300b79d830de44cf3b2c06244f",
+  "homepage": "https://github.com/nucleartux/react-native-date#readme",
+  "keywords": [
+    "react-component",
+    "react",
+    "react-native",
+    "android",
+    "mobile",
+    "native"
+  ],
+  "license": "MIT",
+  "main": "index.android.js",
+  "maintainers": [
+    {
+      "name": "nucleartux",
+      "email": "nucleartux@gmail.com"
+    }
+  ],
+  "name": "react-native-date",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.5"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucleartux/react-native-date.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
